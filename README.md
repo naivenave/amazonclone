@@ -1,4 +1,4 @@
-# Amazon Clone using NextJS, Firebase for saving data, Redux Toolkit to shorten the redux work, Tailwindcss as utility css framework 
+# Amazon Clone using NextJS, Firebase for saving data, Redux Toolkit to shorten the boiler plate code, Tailwindcss as utility css framework 
 
 ## Installation Steps
 
