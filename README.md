@@ -6,7 +6,7 @@
 
 Run commands
 
-1) ```npm i or npm install```
+1) ```npm i```
 
 2) ```npm run dev```
 
@@ -23,3 +23,5 @@ Run commands
 
 
 Bamm!!! Your site will be hosted on default url: http://localhost:3000
+
+---> You can replace i with install in above commands
